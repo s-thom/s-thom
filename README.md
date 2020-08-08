@@ -1,4 +1,4 @@
-![Stuart Thomson](wave-banner.svg)
+![Stuart Thomson](https://raw.githubusercontent.com/s-thom/s-thom/master/wave-banner.svg)
 
 <details>
 <summary>More info</summary>
